@@ -1,0 +1,12 @@
+{
+    "EASY": {
+        "MOVE_POSSIBLITY": 3,
+        "Y_MOVE_BY_X_MIN": 50,
+        "Y_MOVE_BY_X_MAX": 300
+    },
+    "HARD": {
+        "MOVE_POSSIBLITY": 8,
+        "Y_MOVE_BY_X_MIN": 50,
+        "Y_MOVE_BY_X_MAX": 100
+    }
+}

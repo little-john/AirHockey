@@ -10,6 +10,12 @@ C++のライブラリーではありますが、あえてゲーム側はC言語�
 https://siv3d.github.io/ja-jp/
 
 
+## サウンドファイルのクレジット
+使用中のBGMやSEファイルは以下のサイトよりDOWNLOADしてあります。
+
+https://www.playonloop.com/
+
+
 ## 画面スクリーンショット
 
 ![タイトル画面](/Title.png) 
